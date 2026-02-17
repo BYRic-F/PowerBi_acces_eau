@@ -10,14 +10,17 @@ Le dashboard Power BI permet une exploration granulaire des données à travers 
 
 ### 1. Vision mondiale & corrélations
 Analyse de l'ampleur de la crise et mise en évidence de l'impact de l'**instabilité politique** sur la pérennité des infrastructures d'eau.
+
 ![Vue Monde](images/Vue_monde.png)
 
 ### 2. Analyse régionale & fractures sociales
 Mise en lumière du fossé entre zones rurales et urbaines. En Afrique, l'accès à l'eau chute à **52,68 %** en milieu rural contre **85,06 %** en ville.
+
 ![Vue Région](images/Vue_region.png)
 
 ### 3. Priorisation nationale (Top 20)
 Ciblage des pays présentant le risque vital le plus élevé. Le **Tchad** figure en tête des priorités avec un taux de mortalité record de **101 décès pour 100k habitants**.
+
 ![Vue Pays](images/Vue_pays.png)
 
 ---
