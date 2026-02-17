@@ -41,4 +41,4 @@ Pour respecter le délai de 7h, la méthodologie s'est concentrée sur l'efficac
     * **Durabilité :** Forages solaires autonomes pour les zones rurales afin de combler l'écart de 32% d'accès.
 
 ---
-*Projet réalisé par [Ton Nom] - Février 2026*
+*Projet réalisé par Frédéric Bayen - Février 2026*
