@@ -37,7 +37,8 @@ Pour respecter le délai de 7h, la méthodologie s'est concentrée sur l'efficac
 ## Résultats & recommandations
 
 1.  **Identification d'un épicentre :** L'Afrique concentre l'essentiel du risque mondial avec un taux de mortalité **3 fois supérieur** à la moyenne mondiale.
-2.  **Stratégie "Glocale" :** * **Urgence :** Unités de purification mobiles pour les zones à instabilité politique forte (Tchad, Somalie).
+2.  **Stratégie "Glocale" :**
+    * **Urgence :** Unités de purification mobiles pour les zones à instabilité politique forte (Tchad, Somalie).
     * **Durabilité :** Forages solaires autonomes pour les zones rurales afin de combler l'écart de 32% d'accès.
 
 ---
